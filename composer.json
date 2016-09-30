@@ -5,7 +5,7 @@
   "description": "Bugfix for catalogProductAttributeInfo() API method when trying to retrieve an attribute by attribute_code and the attribute_code is not univoque",
   "homepage": "https://github.com/KiweeEu/Kiwee_AttributeLoad",
   "require": {
-    "magento-hackathon/magento-composer-installer": "*",
+    "magento-hackathon/magento-composer-installer": "*"
   },
   "authors": [
     {
