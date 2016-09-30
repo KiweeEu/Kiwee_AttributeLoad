@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+    <modules>
+        <Kiwee_AttributeLoad>
+            <version>0.1.0</version>
+        </Kiwee_AttributeLoad>
+    </modules>
+    <global>
+        <models>
+            <kiwee_attributeload>
+                <class>Kiwee_AttributeLoad_Model</class>
+            </kiwee_attributeload>
+            <catalog_resource>
+                <rewrite>
+                    <attribute>Kiwee_AttributeLoad_Model_Resource_Attribute</attribute>
+                </rewrite>
+            </catalog_resource>
+        </models>
+    </global>
+</config>
